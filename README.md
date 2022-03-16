@@ -70,7 +70,7 @@ There is also a [wiki](https://github.com/maple-labs/maple-core/wiki) for our V1
 
 It is recommended to clone our integration testing repo [contract-test-suite](https://github.com/maple-labs/contract-test-suite) locally in order to provide clearer context with how these contracts interact with the rest of the protocol.
 
-It is also recommended to clone our economic simulation testing repo [loan-simiulations](https://github.com/maple-labs/loan-simiulations) locally in order to provide clearer context with how the refinancing functionality is expected to behave from a business perspective.
+It is also recommended to clone our economic simulation testing repo [loan-simulations](https://github.com/maple-labs/loan-simulations) locally in order to provide clearer context with how the refinancing functionality is expected to behave from a business perspective.
 
 ## Observations
 
