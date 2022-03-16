@@ -103,10 +103,6 @@ xMPL has dependencies on:
 The files to be audited are:
 - `xMPL.sol` (which includes all code from dependencies listed above)
 
-In all repos, all dependencies can be found in the `./modules` directory. All repo READMEs include instructions on how to get the environment up and running for testing.
-
-All technical documentation related to these repos can be found in their corresponding READMEs. If broader context is needed on the existing deployed protocol, further documentation can be found in the maple-core [wiki](https://github.com/maple-labs/maple-core/wiki).
-
 If any clarification on scope is needed, or if there are any other questions, please comment below this issue.
 
 ## Focus Areas
@@ -116,7 +112,7 @@ If any clarification on scope is needed, or if there are any other questions, pl
 - **Accounting Exploitation**: Ensure that no users can perform any actions to exploit/manipulate accounting to their favor.
 - **Refinancing**: Ensure that the Refinancer contract cannot be used maliciously to exploit the Loan.
 
-In all repos, all dependencies can be found in the `./modules` directory. All repo READMEs include instructions on how to get the environment up and running for testing. All repos have their own unit testing suite, including verbose unit testing fuzz testing, and symbolic execution.
+In all repos, all dependencies can be found in the `./modules` directory. All repo READMEs include instructions on how to get the environment up and running for testing. All repos have their own unit testing suite, including verbose unit testing fuzz testing, and invariant testing.
 
 All technical documentation related to this release for Loan will be located in the `maple-labs/loan` [wiki](https://github.com/maple-labs/loan/wiki). We HIGHLY recommend reviewing this wiki before beginning the audit.
 
