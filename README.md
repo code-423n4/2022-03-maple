@@ -75,3 +75,4 @@ It is also recommended to clone our economic simulation testing repo [loan-simul
 ## Observations
 
 In the wiki, there's a page called [List of Assumptions](https://github.com/maple-labs/loan/wiki/List-of-Assumptions) which outlines some basic conditions/assumptions that we assume that will always hold true. Therefore any issue that does not abide by these assumptions will likely be considered invalid.
+test
